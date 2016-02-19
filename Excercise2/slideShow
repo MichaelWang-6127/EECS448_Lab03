@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Slide Show</title>
+    <meta content="">
+    <style></style>
+    <script type="text/javascript" src="slideShow.js"></script>
+  </head>
+  <body>
+    <img src="apple.jpg" id="fruitImageId" width="1080" height="540">
+    <br></br>
+    <button type="button" onclick="Prev()"> Prev </button>
+    <button type="button" onclick="Next()"> Next </button>
+  </body>
+</html>

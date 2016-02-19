@@ -1,0 +1,33 @@
+p
+{
+    color: lime;
+    background-color: purple;
+    font-family: arial;
+    font-size: 20pt;
+}
+p.wow
+{
+    color: red;
+    background-color: black;
+    font-family: arial;
+    font-size: 30pt;
+}
+a
+{
+    background-color: purple;
+    color: lime;
+}
+
+a:hover
+{
+    background-color: lime;
+    color: purple;
+}
+
+body 
+{
+    background-image: url(wow.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attatchment: fixed;
+}

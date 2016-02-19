@@ -1,0 +1,41 @@
+p.default
+{
+	color: black;
+    background-color: white;
+    border-style: double;
+    border-width: 15px;
+    border-color: black;
+    font-family: arial;
+    font-size: 20pt;
+
+}
+p.red
+{
+    color: black;
+    background-color: red;
+    border-style: double;
+    border-width: 15px;
+    border-color: red;
+    font-family: arial;
+    font-size: 20pt;
+}
+p.green
+{
+    color: black;
+    background-color: green;
+    border-style: double;
+    border-width: 15px;
+    border-color: green;
+    font-family: arial;
+    font-size: 20pt;
+}
+p.blue
+{
+    color: black;
+    background-color: blue;
+    border-style: double;
+    border-width: 15px;
+    border-color: blue;
+    font-family: arial;
+    font-size: 20pt;
+}

@@ -1,0 +1,25 @@
+p
+{
+
+    color: white;
+    background-color: grey;
+    font-family: arial;
+    font-size: 20pt;
+}
+a
+{
+    background-color: blue;
+    color: red;
+}
+a:hover
+{
+    background-color: red;
+    color: blue;
+}
+body 
+{
+    background-image: url(jayhawk.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attatchment: fixed;
+}
